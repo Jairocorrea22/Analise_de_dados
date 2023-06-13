@@ -16,17 +16,17 @@
 
 O objetivo desta analise foi responder lguns questionamentos como:
 
-Qual o numero final de inscritos e matriculados?
+• Qual o numero final de inscritos e matriculados?
 
-Qual foi o status final de cada candidato?
+• Qual foi o status final de cada candidato?
 
-Quais os cursos que mais tiveram procura?
+• Quais os cursos que mais tiveram procura?
 
-Qual a faixa etaria dos candidatos ?
+• Qual a faixa etaria dos candidatos ?
 
-Quais programas que mais tiveram procura?
+• Quais programas que mais tiveram procura?
 
-Em quais periodos tivemos mais candidatos interessados?
+• Em quais periodos tivemos mais candidatos interessados?
 
 ## Tela do relatorio
 
