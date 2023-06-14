@@ -1,7 +1,7 @@
 ## Sobre o Relatório
 [Link PowerBI](https://app.powerbi.com/view?r=eyJrIjoiN2FkYzFmZTAtN2JhNi00MTE5LWFmYjctOTZhY2E1NWM1NGE2IiwidCI6Ijg5NzYxNDUyLTZhZTUtNDU4YS1hZDJiLTg1NjRhMTQxY2VhMyJ9)
 
-• Dados sensíveis foram excluídos do relatório, sendo aproveitado apenas dados relacionados à curso, processo seletivo, datas e idade.
+• Dados sensíveis foram excluídos do relatório, sendo aproveitado apenas informações relacionadas ao curso, processo seletivo, datas e idade.
 
 •	Para tal exclusões conectei o arquivo .csv baixado no  SQL Server, onde criei uma nova tabela para iniciar as limpezas e tratamentos.
 
