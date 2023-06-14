@@ -1,4 +1,4 @@
-## Sobre o Relatorio
+## Sobre o Relatório
 [Link PowerBI](https://app.powerbi.com/view?r=eyJrIjoiOTU0MGQ5MGEtZTYyMC00NDYzLTgxZmYtYjIwYjUwNTRmZDcyIiwidCI6Ijg5NzYxNDUyLTZhZTUtNDU4YS1hZDJiLTg1NjRhMTQxY2VhMyJ9)
 
 [Publicação no LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7070101703139745792/)
@@ -15,12 +15,16 @@
 
 
 
-## Tela do relatorio
+## Tela do relatório
+
 
 ![print1](https://github.com/Jairocorrea22/Analise_de_dados/assets/111188620/5e9c1a18-b77a-4f5a-be28-b0bba10f7c99)
 
 
-## Sobre o relatório...
+
+
+## Sobre o relatório
+
 
 • Foi utilizado uma matriz para colocar a classificação, pontuação e aproveitamento do time no ano selecionado. Seguido de alguns cards, representando o numero de vitórias, empates e derrotas.
 
