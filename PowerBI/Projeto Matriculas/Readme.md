@@ -1,4 +1,4 @@
-## Sobre o Relatorio
+## Sobre o Relatório
 [Link PowerBI](https://app.powerbi.com/view?r=eyJrIjoiN2FkYzFmZTAtN2JhNi00MTE5LWFmYjctOTZhY2E1NWM1NGE2IiwidCI6Ijg5NzYxNDUyLTZhZTUtNDU4YS1hZDJiLTg1NjRhMTQxY2VhMyJ9)
 
 • Dados sensíveis como CPF, Telefone, Email, Nome, foram excluídos do relatório. Sendo aproveitado apenas dados relacionados à curso, processo seletivo, datas e idade.
@@ -28,7 +28,7 @@ O objetivo desta analise foi responder lguns questionamentos como:
 
 • Em quais periodos tivemos mais candidatos interessados?
 
-## Tela do relatorio
+## Tela do relatório
 
 ![print](https://github.com/Jairocorrea22/Analise_de_dados/assets/111188620/68d99d61-a73d-409d-8cdb-aadf6b67c624)
 
